@@ -1,20 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.1">
   <diagram name="Page-1" id="QBQxTAS_jeq5lQeGOITA">
-    <mxGraphModel dx="802" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mC9L1a-r7CWqt5lT0whb-1" value="Pitch Deck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="ZsOBOnRGs2nXSJE_QmOv-1" target="ZsOBOnRGs2nXSJE_QmOv-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mC9L1a-r7CWqt5lT0whb-4" value="Founder Mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="195" width="180" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="mC9L1a-r7CWqt5lT0whb-5" value="Email Updates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="mC9L1a-r7CWqt5lT0whb-1" value="Pitch Deck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mC9L1a-r7CWqt5lT0whb-6" value="Call transcrits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="mC9L1a-r7CWqt5lT0whb-4" value="Founder Mail" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mC9L1a-r7CWqt5lT0whb-5" value="Email Updates" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mC9L1a-r7CWqt5lT0whb-6" value="Call transcrits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="ZsOBOnRGs2nXSJE_QmOv-2" target="ZsOBOnRGs2nXSJE_QmOv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-2" value="Structured Data Extraction Algorithm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="315" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-3" value="Rules" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="390" y="390" width="70" height="30" as="geometry">
+            <mxRectangle x="390" y="390" width="140" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-4" value="Page No Extraction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZsOBOnRGs2nXSJE_QmOv-3">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-5" value="Text Extraction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZsOBOnRGs2nXSJE_QmOv-3">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-6" value="&lt;div&gt;Text Extraction using OCR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Efficient Text Extraction using generative model&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZsOBOnRGs2nXSJE_QmOv-3">
+          <mxGeometry y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;shadow=0;" edge="1" parent="1" source="ZsOBOnRGs2nXSJE_QmOv-11" target="ZsOBOnRGs2nXSJE_QmOv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-11" value="Generative Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="315" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-16" value="&lt;div&gt;Page No&lt;/div&gt;&lt;div&gt;Extracted Text from page&lt;/div&gt;&lt;div&gt;Extracted Text by OCR&lt;/div&gt;&lt;div&gt;Extracted Tables Text from page&lt;/div&gt;&lt;div&gt;Extracted text from generative model&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="970" y="290" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsOBOnRGs2nXSJE_QmOv-23" value="Data Extraction Pipeline" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
